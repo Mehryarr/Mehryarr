@@ -1,7 +1,11 @@
 
 **`“Programmer: A machine that turns coffee into code.”`**
+#
+### 🙋‍♂️ About Me
 
-Hi, my name is Mehryar and I'm a back-end developer. I enjoy solving complex problems and learning new skills.
+Hi, I'm a back-end developer. I enjoy solving complex problems and learning new skills.
+
+#
 
 ### 🧰 Languages and Tools
 
